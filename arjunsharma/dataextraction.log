@@ -1,0 +1,75 @@
+[19-07-17 23:58:30 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:06:17 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:07:32 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:10:19 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:11:52 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:22:58 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:36:52 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:37:10 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:37:36 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:39:58 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:43:29 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:44:06 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:44:25 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:46:25 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:47:22 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:48:34 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:49:27 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[20-07-17 00:49:27 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[21-07-17 02:22:17 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[21-07-17 02:22:17 INFO] Reading file: /home/arjun/Documents/reports/scores-21-07-2017_02-20-24.csv
+[21-07-17 02:22:17 ERROR] Error reading JSON file /home/arjun/Documents/reports/scores-21-07-2017_02-20-24.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:17 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/scores-21-07-2017_02-20-24.csv
+[21-07-17 02:22:17 INFO] Reading file: /home/arjun/Documents/reports/scores-21-07-2017_02-21-33.csv
+[21-07-17 02:22:17 ERROR] Error reading JSON file /home/arjun/Documents/reports/scores-21-07-2017_02-21-33.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:17 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/scores-21-07-2017_02-21-33.csv
+[21-07-17 02:22:17 INFO] Reading file: /home/arjun/Documents/reports/data-21-07-2017_02-21-33.csv
+[21-07-17 02:22:17 ERROR] Error reading JSON file /home/arjun/Documents/reports/data-21-07-2017_02-21-33.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:17 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/data-21-07-2017_02-21-33.csv
+[21-07-17 02:22:17 INFO] Reading file: /home/arjun/Documents/reports/data-21-07-2017_02-20-24.csv
+[21-07-17 02:22:17 ERROR] Error reading JSON file /home/arjun/Documents/reports/data-21-07-2017_02-20-24.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:17 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/data-21-07-2017_02-20-24.csv
+[21-07-17 02:22:17 INFO] Reading file: /home/arjun/Documents/reports/scores-21-07-2017_02-18-58.csv
+[21-07-17 02:22:17 ERROR] Error reading JSON file /home/arjun/Documents/reports/scores-21-07-2017_02-18-58.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:17 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/scores-21-07-2017_02-18-58.csv
+[21-07-17 02:22:17 INFO] Reading file: /home/arjun/Documents/reports/data-21-07-2017_02-18-58.csv
+[21-07-17 02:22:17 ERROR] Error reading JSON file /home/arjun/Documents/reports/data-21-07-2017_02-18-58.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:17 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/data-21-07-2017_02-18-58.csv
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/report-1.json
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/scores-21-07-2017_02-20-24.csv
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/scores-21-07-2017_02-20-24.csv
+[21-07-17 02:22:57 ERROR] Error reading JSON file /home/arjun/Documents/reports/scores-21-07-2017_02-20-24.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:57 ERROR] Error reading JSON file /home/arjun/Documents/reports/scores-21-07-2017_02-20-24.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:57 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/scores-21-07-2017_02-20-24.csv
+[21-07-17 02:22:57 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/scores-21-07-2017_02-20-24.csv
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/scores-21-07-2017_02-21-33.csv
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/scores-21-07-2017_02-21-33.csv
+[21-07-17 02:22:57 ERROR] Error reading JSON file /home/arjun/Documents/reports/scores-21-07-2017_02-21-33.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:57 ERROR] Error reading JSON file /home/arjun/Documents/reports/scores-21-07-2017_02-21-33.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:57 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/scores-21-07-2017_02-21-33.csv
+[21-07-17 02:22:57 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/scores-21-07-2017_02-21-33.csv
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/data-21-07-2017_02-21-33.csv
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/data-21-07-2017_02-21-33.csv
+[21-07-17 02:22:57 ERROR] Error reading JSON file /home/arjun/Documents/reports/data-21-07-2017_02-21-33.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:57 ERROR] Error reading JSON file /home/arjun/Documents/reports/data-21-07-2017_02-21-33.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:57 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/data-21-07-2017_02-21-33.csv
+[21-07-17 02:22:57 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/data-21-07-2017_02-21-33.csv
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/data-21-07-2017_02-20-24.csv
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/data-21-07-2017_02-20-24.csv
+[21-07-17 02:22:57 ERROR] Error reading JSON file /home/arjun/Documents/reports/data-21-07-2017_02-20-24.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:57 ERROR] Error reading JSON file /home/arjun/Documents/reports/data-21-07-2017_02-20-24.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:57 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/data-21-07-2017_02-20-24.csv
+[21-07-17 02:22:57 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/data-21-07-2017_02-20-24.csv
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/scores-21-07-2017_02-18-58.csv
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/scores-21-07-2017_02-18-58.csv
+[21-07-17 02:22:57 ERROR] Error reading JSON file /home/arjun/Documents/reports/scores-21-07-2017_02-18-58.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:57 ERROR] Error reading JSON file /home/arjun/Documents/reports/scores-21-07-2017_02-18-58.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:57 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/scores-21-07-2017_02-18-58.csv
+[21-07-17 02:22:57 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/scores-21-07-2017_02-18-58.csv
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/data-21-07-2017_02-18-58.csv
+[21-07-17 02:22:57 INFO] Reading file: /home/arjun/Documents/reports/data-21-07-2017_02-18-58.csv
+[21-07-17 02:22:57 ERROR] Error reading JSON file /home/arjun/Documents/reports/data-21-07-2017_02-18-58.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:57 ERROR] Error reading JSON file /home/arjun/Documents/reports/data-21-07-2017_02-18-58.csv. Error: Extra data: line 1 column 25 (char 24)
+[21-07-17 02:22:57 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/data-21-07-2017_02-18-58.csv
+[21-07-17 02:22:57 WARNING] Parsed JSON was None. Skipping /home/arjun/Documents/reports/data-21-07-2017_02-18-58.csv
