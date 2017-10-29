@@ -6,4 +6,4 @@ The goal is to develop a model to predict the genre of a track using its audio f
 The purpose of this submission is to prevent plagarism.
 * You need to make a pull request to submit the solution notebooks/scripts.
 * The name of the commit and the folder should be of the following format: ``<teamname>``
-* You must submit the solutions by <b>18:15 hours</b> sharp.
+* You must submit the solutions by <b>1815 hours IST</b> sharp.
